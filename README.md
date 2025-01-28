@@ -53,7 +53,8 @@ To ensure robust programming, I implemented input validation, error handling wit
 
 In summary, this assignment demonstrates proficiency in array manipulation, error handling, and adherence to best coding practices while creating dynamic and flexible solutions.
 
-
+28 january 2025:
+java methods:Methods allow you to structure code into reusable, modular units.
 
 
 
