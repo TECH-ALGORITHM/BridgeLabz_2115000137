@@ -57,4 +57,13 @@ In summary, this assignment demonstrates proficiency in array manipulation, erro
 java methods:Methods allow you to structure code into reusable, modular units.
 
 
+29 january 2025:
+
+
+The outcome is the usage of how to use common Built-in Functions and build the logic
+The outcome is the usage of Strings
+Handling strings and common string functions
+Functions and function parameter passing, return the value of function.
+
+
 
