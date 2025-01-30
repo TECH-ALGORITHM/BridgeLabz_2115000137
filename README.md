@@ -65,5 +65,10 @@ The outcome is the usage of Strings
 Handling strings and common string functions
 Functions and function parameter passing, return the value of function.
 
+31 january 2025:
+
+- Procedural vs Object-oriented Programming Language
+- Class and Object
+
 
 
