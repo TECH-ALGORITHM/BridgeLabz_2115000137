@@ -69,10 +69,17 @@ Functions and function parameter passing, return the value of function.
 
 - Procedural vs Object-oriented Programming Language
 - Class and Object
+  
 
 02-february-2025
 
  Java Constructors
 - Instance vs. Class Variables
 - Access Modifiers Level 1
+
+ 04-february-2025
+- this
+- static
+- final
+- instanceof operator
 
