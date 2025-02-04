@@ -39,11 +39,6 @@ January 23, 2025
 
     This solution covers the practice problems assigned on this date, with detailed steps and explanations.
 
-January 28, 2025
-
-Added practice problem solution for January 28, 2025.
-
-The solution is uploaded as a .java file.
 
 This solution covers the practice problems assigned on this date, with detailed steps and explanations.
 January 25, 2025
@@ -64,7 +59,7 @@ January 25, 2025
     Odd and Even Numbers
     Factor Calculation
     Multiplication Table
-    Comparison of First and Last Array Elements
+    Comparison of First and   Array Elements
     Positive, Negative, or Zero Check
     Age and Voting Eligibility
     Sum of Multiple Values
@@ -72,16 +67,320 @@ January 25, 2025
     Mean Height Calculation
     Digits in Number
 
+    
+January 28, 2025
+
+Added practice problem solution for January 28, 2025.
+
+The solution is uploaded as a .java file.
+
+AthleteRounds.class
+28 jan
+   
+AthleteRounds.java
+28 jan
+   
+BMICalculator.class
+28 jan
+   
+BMICalculator.java
+28 jan
+   
+CalendarDisplay.class
+28 jan
+   
+CalendarDisplay.java
+28 jan
+   
+ChocolateDistribution.class
+28 jan
+   
+ChocolateDistribution.java
+28 jan
+   
+CollinearPoints.class
+28 jan
+   
+CollinearPoints.java
+28 jan
+   
+EmployeeBonusL3.class
+28 jan
+   
+EmployeeBonusL3.java
+28 jan
+   
+EuclideanDistanceLineEquation.class
+28 jan
+   
+EuclideanDistanceLineEquation.java
+28 jan
+   
+FactorCalculatorL2.class
+28 jan
+   
+FactorCalculatorL2.java
+28 jan
+   
+FootballTeam.class
+28 jan
+   
+FootballTeam.java
+28 jan
+   
+FriendsInfo.class
+28 jan
+   
+FriendsInfo.java
+28 jan
+   
+HandShakeCalculator2.class
+28 jan
+   
+HandShakeCalculator2.java
+28 jan
+   
+LeapYearCheckerL2.class
+28 jan
+   
+LeapYearCheckerL2.java
+28 jan
+   
+MatrixManipulationL3.class
+28 jan
+   
+MatrixManipulationL3.java
+28 jan
+   
+MaxHandShakesMethod.class
+28 jan
+   
+MaxHandShakesMethod.java
+28 jan
+   
+NaturalNumbersSumL2.class
+28 jan
+   
+NaturalNumbersSumL2.java
+28 jan
+   
+NumberCheckerDigitsL3.class
+28 jan
+   
+NumberCheckerDigitsL3.java
+28 jan
+   
+NumberCheckerFactorsL3.class
+28 jan
+   
+NumberCheckerFactorsL3.java
+28 jan
+   
+NumberCheckerHarshadL3.class
+28 jan
+   
+NumberCheckerHarshadL3.java
+28 jan
+   
+NumberCheckerL2.class
+28 jan
+   
+NumberCheckerL2.java
+28 jan
+   
+NumberCheckerL3.class
+28 jan
+   
+NumberCheckerPalindromeL3.class
+28 jan
+   
+NumberCheckerPalindromeL3.java
+28 jan
+   
+NumberCheckerSpecialL3.class
+28 jan
+   
+NumberCheckerSpecialL3.java
+28 jan
+   
+OTPGenerator.class
+28 jan
+   
+OTPGenerator.java
+28 jan
+   
+PositiveNegativeZero.class
+28 jan
+   
+PositiveNegativeZero.java
+28 jan
+   
+Quadratic.class
+28 jan
+   
+Quadratic.java
+28 jan
+   
+RandomNumbers.class
+28 jan
+   
+RandomNumbers.java
+28 jan
+   
+RemainderAndQuotient.class
+28 jan
+   
+RemainderAndQuotient.java
+28 jan
+   
+SimpleIntresetCalculator.class
+28 jan
+   
+SimpleIntresetCalculator.java
+28 jan
+   
+SmallestAndLargest.class
+28 jan
+   
+SmallestAndLargest.java
+28 jan
+   
+SpringSeason.class
+28 jan
+   
+SpringSeason.java
+28 jan
+   
+StudentMarksL3.class
+28 jan
+   
+StudentMarksL3.java
+28 jan
+   
+StudentVoteChecker.class
+28 jan
+   
+StudentVoteChecker.java
+28 jan
+   
+SumOfNaturalNumbers.class
+28 jan
+   
+SumOfNaturalNumbers.java
+28 jan
+   
+TrignometricFunctions.class
+28 jan
+   
+TrignometricFunctions.java
+28 jan
+   
+UnitConverter.class
+28 jan
+   
+UnitConverter.java
+28 jan
+   
+UnitConverter2.class
+28 jan
+   
+UnitConverter2.java
+28 jan
+   
+UnitConverter4L2.class
+28 jan
+   
+UnitConverter4L2.java
+28 jan
+
+WindChillCalculator.class
+28 jan
+
+WindChillCalculator.java
+
+
 January 31, 2025
 
 Added practice problem solution for January 31, 2025.
 
 The solution is uploaded as a .java file.
+ComputeAreaOfCircle.java
+31-jan-2025
+DisplayEmployeeDetail.java
+31-jan-2025
+HandleBookDetails.java
+
+
+feb o2, 2025
+This solution covers the practice problems assigned on this date, with detailed steps and explanations.
+feb o2, 2025
+features_02-feb-2025
+
+BankAccountManagement.java
+02-feb-2025
+
+BookClass.java
+02-feb-2025
+
+BookLibrarySystem.java
+02-feb-2025
+
+CarRentalSystem.java
+02-feb-2025
+
+CircleClasswithConstructorChaining.java
+02-feb-2025
+
+EmployeeRecords.java
+02-feb-2025
+
+HotelBookingSystem.java
+02-feb-2025
+
+LibraryBookSystem.java
+02-feb-2025
+
+OnlineCourseManagement.java
+02-feb-2025
+
+PersonClasswithCopyConstructor.java
+02-feb-2025
+
+ProductInventory.java
+02-feb-2025
+
+UniversityManagementSystem.java
+02-feb-2025
+
+VehicleRegistration.java
+
+
 
 This solution covers the practice problems assigned on this date, with detailed steps and explanations.
 feb o4, 2025
+features_04-feb-2025
+Added practice problem solution for 04 febon branch features_04-feb-2025
+BankAccount.java
+04-feb-2025
+yesterday
+Book.java
+04-feb-2025
+yesterday
+Employee.java
+04-feb-2025
+yesterday
+Patient.java
+04-feb-2025
+yesterday
+Product.java
+04-feb-2025
+yesterday
+Student.java
+04-feb-2025
+yesterday
+Vehicle.java
+04-feb-2025
 
-Added practice problem solution for 04 feb.
 
 The solution is uploaded as a .java file.
 
