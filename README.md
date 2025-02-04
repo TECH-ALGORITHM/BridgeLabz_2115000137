@@ -1,14 +1,10 @@
-# BridgeLabz_2115000137
-
-
-
 January 20, 2025
 
     Added practice problem solution for January 19, 2025.
     The solution is uploaded as a .docx file named Practice Problrm Solution.docx.
     This solution covers the practice problems assigned on this date, with detailed steps and explanations.
 
-Problems Solved in feature_20_jan_25 Branch
+Problems Solved in feature/19-jan-2025 Branch
 
 Problem Statement 1: Welcome to Bridgelabz
 
@@ -33,53 +29,60 @@ January 22, 2025
 
 Added practice problem solution for January 22, 2025.
 
-The solution is uploaded as a folders file named feature_22_jan_25,feature_22_jan_25[level 2].
-
 This solution covers the practice problems assigned on this date, with detailed steps and explanations.
+Practice Problem Solutions
 January 23, 2025
 
-Added practice problem solution for January 19, 2025.
+    Added practice problem solution for January 19, 2025.
 
-The solution is uploaded as a solution file.
+    The solution is uploaded as a solution file.
+
+    This solution covers the practice problems assigned on this date, with detailed steps and explanations.
+
+January 28, 2025
+
+Added practice problem solution for January 28, 2025.
+
+The solution is uploaded as a .java file.
 
 This solution covers the practice problems assigned on this date, with detailed steps and explanations.
+January 25, 2025
 
-25 january 2025:
-Assignment Summary: Java Arrays and Programming Practices
+    Added the practice problem solutions for January 25, 2025.
 
-This assignment focuses on Java arrays and multidimensional arrays, covering creation, modification, and access using loops and the length property. Key operations include working with 2D arrays (matrices) to access elements, determine sizes, and iterate through rows and columns.
+    This solution includes detailed steps and explanations for the following practice problems:
 
-To ensure robust programming, I implemented input validation, error handling with System.err and exit(), and avoided hardcoding values. Proper naming conventions, comments, and indentation were followed throughout the code for clarity and maintainability.
+    Bonus Calculation 2. Youngest and Tallest Friend
+    Largest and Second Largest Digit
+    Reverse a Number
+    BMI Calculation
+    BMI Calculation using 2D Array
+    Student Grades
+    Student Grades using 2D Array
+    Digit Frequency
+    Employee Bonus Calculation
+    Odd and Even Numbers
+    Factor Calculation
+    Multiplication Table
+    Comparison of First and Last Array Elements
+    Positive, Negative, or Zero Check
+    Age and Voting Eligibility
+    Sum of Multiple Values
+    Multiplication Table of Multiple Numbers
+    Mean Height Calculation
+    Digits in Number
 
-In summary, this assignment demonstrates proficiency in array manipulation, error handling, and adherence to best coding practices while creating dynamic and flexible solutions.
+January 31, 2025
 
-28 january 2025:
-java methods:Methods allow you to structure code into reusable, modular units.
+Added practice problem solution for January 31, 2025.
 
+The solution is uploaded as a .java file.
 
-29 january 2025:
+This solution covers the practice problems assigned on this date, with detailed steps and explanations.
+feb o4, 2025
 
+Added practice problem solution for 04 feb.
 
-The outcome is the usage of how to use common Built-in Functions and build the logic
-The outcome is the usage of Strings
-Handling strings and common string functions
-Functions and function parameter passing, return the value of function.
+The solution is uploaded as a .java file.
 
-31 january 2025:
-
-- Procedural vs Object-oriented Programming Language
-- Class and Object
-  
-
-02-february-2025
-
- Java Constructors
-- Instance vs. Class Variables
-- Access Modifiers Level 1
-
- 04-february-2025
-- this
-- static
-- final
-- instanceof operator
-
+This solution covers the practice problems assigned on this date, with detailed steps and explanations.
