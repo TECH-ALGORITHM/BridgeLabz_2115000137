@@ -385,3 +385,36 @@ Vehicle.java
 The solution is uploaded as a .java file.
 
 This solution covers the practice problems assigned on this date, with detailed steps and explanations.
+
+
+
+This solution covers the practice problems assigned on this date, with detailed steps and explanations.
+feb o6, 2025
+features/06-feb-2025
+BankAndAccountHolders.java
+	
+Class_Diagram_1.jpg
+ 
+Class_Diagram_2.jpg
+ 
+ComapnyDepartment.java
+ 
+E-commerce-Platform.java
+ 
+HospitalDoctorsPatient.java
+ 
+LibraryAndBooks.java
+ 
+Object_Diagram_01.jpg
+ 
+Object_Diagram_02.jpg
+ 
+SchoolStudentsWithCourses.java
+ 
+Sequence_Diagram_1.jpg
+ 
+Sequence_Diagram_2.jpg
+ 
+UniversityManagementSystem.java
+ 
+UniversityWithFacultyDepartment.java
