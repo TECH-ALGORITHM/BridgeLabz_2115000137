@@ -418,3 +418,62 @@ Sequence_Diagram_2.jpg
 UniversityManagementSystem.java
  
 UniversityWithFacultyDepartment.java
+
+
+
+This solution covers the practice problems assigned on this date, with detailed steps and explanations.
+feb o6, 2025
+features/07-feb-2025
+
+AnimalHierarchy.java
+	
+07-feb-2025
+	
+Feb 7, 2025
+BankAccountTypes.java
+	
+07-feb-2025
+	
+Feb 7, 2025
+EducationalCourseHierarcy.java
+	
+07-feb-2025
+	
+Feb 7, 2025
+EmployeeManagementSystem.java
+	
+07-feb-2025
+	
+Feb 7, 2025
+LibraryManagement.java
+	
+07-feb-2025
+	
+Feb 7, 2025
+OnlineRetailMangement.java
+	
+07-feb-2025
+	
+Feb 7, 2025
+Person.java
+	
+07-feb-2025
+	
+Feb 7, 2025
+SchoolSystem.java
+	
+07-feb-2025
+	
+Feb 7, 2025
+SmartHomeDevices.java
+	
+07-feb-2025
+	
+Feb 7, 2025
+Vehicle.java
+	
+07-feb-2025
+	
+Feb 7, 2025
+VehicleandTransportSystem.java
+
