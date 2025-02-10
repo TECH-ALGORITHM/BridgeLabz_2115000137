@@ -477,3 +477,23 @@ Vehicle.java
 Feb 7, 2025
 VehicleandTransportSystem.java
 
+
+This assignment includes multiple Java programs following best programming practices such as encapsulation, polymorphism, interfaces, and abstract classes while avoiding built-in functions. in features/10-feb-2025 branch of feature. 
+
+    BankAccount.java: Implements encapsulation for account details, validation in setters, and polymorphism for different account types.
+    Ecommerce.java: Uses interfaces for order processing, encapsulation for product data, and polymorphism for payment methods.
+    Employee.java: Implements an abstract class for common attributes and uses encapsulation to secure employee details.
+    FoodOrder.java: Uses encapsulation for order details and a brute-force approach for item management.
+    HospitalSystem.java: Manages patients and doctors using object-oriented relationships and encapsulation.
+    Library.java: Implements a book lending system with encapsulation and validation checks.
+    RentalSystem.java: Manages rental services with encapsulation and interfaces.
+    RideHailingSystem.java: Uses polymorphism for different ride types and encapsulation for driver and rider details.
+    BankAccount.java
+BankAccount.java
+Ecommerce.java
+Employee.java
+FoodOrder.java
+HospitalSystem.java
+Library.java
+RentalSystem.java
+RideHailingSystem.java
