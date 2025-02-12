@@ -477,7 +477,7 @@ Vehicle.java
 Feb 7, 2025
 VehicleandTransportSystem.java
 
-
+10 february 2025:
 This assignment includes multiple Java programs following best programming practices such as encapsulation, polymorphism, interfaces, and abstract classes while avoiding built-in functions. in features/10-feb-2025 branch of feature. 
 
     BankAccount.java: Implements encapsulation for account details, validation in setters, and polymorphism for different account types.
@@ -497,3 +497,26 @@ HospitalSystem.java
 Library.java
 RentalSystem.java
 RideHailingSystem.java
+
+
+12 february 2025:
+This assignment includes multiple Java programs following best programming practices  while avoiding built-in functions. in features/12-feb-2025 branch of feature. 
+Singly,Doubly linked list implementation iin this branch.
+
+EmployeePayroll.java
+
+InventoryMangement.java
+
+MovieManagement.java
+
+OnlineTicketResevation.java
+
+SocialMediaFriendConnection.java
+
+StudentRecordManagement.java
+
+TaskManagement.java
+
+TrainTicketReservation.java
+
+UndoRedoTextEditor.java
