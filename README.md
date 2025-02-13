@@ -501,7 +501,7 @@ RideHailingSystem.java
 
 12 february 2025:
 This assignment includes multiple Java programs following best programming practices  while avoiding built-in functions. in features/12-feb-2025 branch of feature. 
-Singly,Doubly linked list implementation iin this branch.
+Singly,Doubly linked list implementation in this branch.
 
 EmployeePayroll.java
 
@@ -520,3 +520,21 @@ TaskManagement.java
 TrainTicketReservation.java
 
 UndoRedoTextEditor.java
+
+
+
+
+13 february 2025:
+This assignment includes multiple Java programs following best programming practices  while avoiding built-in functions. in features/  branch of feature. 
+Stack,queue,hashmap implementation in this branch.
+
+CircularTour.java
+CustomHashMap.java
+LongestConsecutive.java
+PairWithSum.java
+QueueUsingStacks.java
+SlidingWindowMax.java
+SortStack.java
+StockSpan.java
+TwoSum.java
+ZeroSumSubarrays.java
