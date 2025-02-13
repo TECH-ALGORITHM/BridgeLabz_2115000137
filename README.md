@@ -525,7 +525,7 @@ UndoRedoTextEditor.java
 
 
 13 february 2025:
-This assignment includes multiple Java programs following best programming practices  while avoiding built-in functions. in features/  branch of feature. 
+This assignment includes multiple Java programs following best programming practices  while avoiding built-in functions. in features/13-feb-2025  branch of feature. 
 Stack,queue,hashmap implementation in this branch.
 
 CircularTour.java
@@ -534,7 +534,26 @@ LongestConsecutive.java
 PairWithSum.java
 QueueUsingStacks.java
 SlidingWindowMax.java
+SelectionSort.java
 SortStack.java
 StockSpan.java
 TwoSum.java
 ZeroSumSubarrays.java
+
+
+14 february 2025:
+This assignment includes multiple Java programs following best programming practices  while avoiding built-in functions. in features/14-feb-2025   branch of feature. 
+various sorting alogrithms implementation in this branch.
+BubbleSort.java
+
+CountingSort.java
+
+HeapSort.java
+
+InsertionSort.java
+
+MergeSort.java
+
+QuickSort.java
+
+SelectionSort.java
