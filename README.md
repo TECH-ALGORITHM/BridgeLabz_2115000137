@@ -557,3 +557,45 @@ MergeSort.java
 QuickSort.java
 
 SelectionSort.java
+
+
+
+16 february 2025:
+This assignment includes multiple Java programs following best programming practices  while avoiding built-in functions. in features/16-feb-2025   branch of feature. 
+StringBuilder
+StringBuffer
+FileReader, 
+InputStreamReader
+Linear Search 
+Binary Search in this branch.
+
+ByteToCharStream.java
+
+ConcatenateStrings.java
+
+FirstLastOccurrence.java
+FirstNegativeSearch.java
+
+MatrixSearch.java
+
+PeakElementSearch.java
+
+PerformanceComparison.java
+
+ReadFile.java
+
+RemoveDuplicates.java
+
+ReverseString.java
+
+RotationPointSearch.java
+
+SearchChallenge.java
+
+StringBufferVsStringBuilder.java
+
+UserInputToFile.java
+
+WordCount.java
+
+WordSearch.java
