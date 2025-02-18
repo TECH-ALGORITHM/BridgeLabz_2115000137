@@ -619,3 +619,21 @@ SearchComparison.java
 SortingComparison.java
 
 StringConcatenation.java
+
+
+
+
+
+18 february 2025:
+This assignment includes multiple Java programs following best programming practices  while avoiding built-in functions. in features/18-feb-2025   branch of feature. 
+generics in java implementation in this branch.
+
+DynamicOnlineMarketplace.java
+
+PersonalizedMealPlan.java
+
+ResumeScreeningSystem.java
+
+SmartWareHouseManagement.java
+
+UniversityCourseManagement.java
