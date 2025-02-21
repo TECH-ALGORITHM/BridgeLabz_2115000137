@@ -696,3 +696,51 @@ UnionIntersection.java
 VotingSystem.java
  
 WordFrequency.java
+
+
+
+21 february 2025:
+This assignment includes multiple Java programs following best programming practices  while avoiding built-in functions. in features/21-feb-2025   branch of feature. 
+Stream,exceptionHnadling in java implementation in this branch.
+BankingSystem.java
+ 
+
+BankTransaction.java
+ 
+BufferedFileCopy.java
+ 
+CheckedException.java
+ 
+CustomException.java
+ 
+DataStream.java
+ 
+EmployeeSerialization.java
+ 
+ExceptionPropagation.java
+ 
+ExceptionPropagationMethods.java
+ 
+FileReadWrite.java
+ 
+FinallyBlock.java
+ 
+ImageToByteArray.java
+ 
+LargeFileReader.java
+ 
+MulitpleCatch.java
+ 
+NestedtTryCatch.java
+ 
+PipedStreamExample.java
+ 
+TryWithResources.java
+ 
+UncheckedException.java
+ 
+UpperToLower.java
+ 
+UserInputToFile.java
+ 
+WordCounter.java
