@@ -866,3 +866,49 @@ RoleAccessExample.java
 SuppressWarningExample.java
  
 TodoAnnotationExample.java
+
+
+
+25 february 2025:
+This assignment includes multiple Java programs following best programming practices  while avoiding built-in functions. in features/25-feb-2025   branch of feature. 
+csvReader folder.
+
+
+
+CSVReportDatabase.java
+ 
+DuplicateDetector.java
+ 
+EncryptDecryptCSV.java
+ 
+JsonCsvConverter.java
+ 
+LargeCSVProcessor.java
+ 
+MergeCSVFiles.java
+ 
+ReadCsv.java
+ 
+Writecsv.java
+ 
+csvCountRows.java
+ 
+csvDatatoObjects.java
+ 
+csvFilterRecords.java
+ 
+csvModifyRecord.java
+ 
+csvSearchRecord.java
+ 
+csvSortRecords.java
+ 
+csvValidateRecords.java
+ 
+data.csv
+ 
+data2.csv
+ 
+modifyEmployee.csv
+ 
+output.csv
