@@ -911,4 +911,47 @@ data2.csv
  
 modifyEmployee.csv
  
-output.csv
+output.csv 
+
+
+
+
+26 february 2025:
+This assignment includes multiple Java programs following best programming practices  while avoiding built-in functions. in features/26-feb-2025   branch of feature. 
+
+
+CarToJson.java
+  
+CreateStudentJson.java
+  
+CsvToJson.java
+  
+FilterJsonByAge.java
+  
+FilterJsonUsers.java
+  
+IPLCensorAnalyzer.java
+  
+JsonReportDb.java
+  
+JsonToXml.java
+  
+ListToJson.java
+  
+ListToJsonArray.java
+  
+MergeJsonFiles.java
+  
+ReadJsonFile (2).java
+  
+ReadJsonFile.java
+  
+ValidateJson.java
+  
+ValidateJsonSchema.java
+  
+ipl_match.csv
+  
+ipl_match.json
+  
+mergeJson.java
